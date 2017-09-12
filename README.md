@@ -21,7 +21,7 @@ Selamat Mencoba :)
 # DESKRIPSI APLIKASI:
 ShushMe memungkinkan Anda memilih serangkaian lokasi yang menggunakan Google Place API, kemudian membuat geofence di sekitar tempat tersebut dan mengubah perangkat menjadi mode senyap jika Anda memasukkannya. Setelah perangkat keluar lagi, ShushMe mengubah perangkat kembali ke normal (apa pun mode dering dan volume yang Anda atur sebelum masuk)
 
-## Screenshots
+# Screenshots
 
 ![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
 ![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
