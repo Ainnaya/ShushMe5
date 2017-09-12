@@ -13,7 +13,7 @@ Nama Sekolah: SMK Telkom Malang
 Shush Me
 
 # LINK FILE APK:
-Anda bisa mendapatkan aplikasi ini dengan dengan cara Klik tulisan di samping -->
+Anda bisa mendapatkan aplikasi ini dengan cara Klik tulisan di samping -->
 [Shush Me 5](https://docs.google.com/uc?export=download&id=0BxRyC99DsxNVYWQ3Tm5zaDhmaWc)
 
 Selamat Mencoba :)
